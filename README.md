@@ -1,21 +1,28 @@
-- 👋 Hi, here's Grass Tech.
-- About us: Grass Tech is a technology studio. Here're many objects for free!
+### Welcome to Grass Tech
 
-## What we have
-- some proects for common users for free. ()
-- some proects that are interesting, but boring(yep, boring and interesting)
-- take over some of the projects that are out of service
+Grass Tech is a technology studio dedicated to innovation. We offer high-quality, free technical projects and services aimed at benefiting our users.
 
-## Want to know what language is  my favorite?
-<kbd>Python</kbd> <kbd>C++</kbd> <kbd>GOlang</kbd> <kbd>PHP</kbd>
+#### What We Offer
+- **Free Projects**: A range of freely available projects tailored for general users.
+- **Innovative Projects**: Some projects that are both intriguing and challenging, albeit potentially monotonous in certain aspects.
+- **Project Revival**: Continuing the development and support of previously discontinued projects, breathing new life into them.
 
-# What is my the most proud projects that I developped?
-- <kbd>COMPLETE</kbd> A `programming language.`   (Build Line: 5210)
-- <kbd>DEVELOPPING</kbd> An `artificial-intelligence desktop pet` through [Live2D-py](https://github.com/Arkueid/live2d-py)   (Build Line: 2270)
-- <kbd>DEVELOPPING</kbd> A natural and machine language processing calculator  (Build Line: 3680)
-- <kbd>LOST</kbd> A common desktop pet software by my own (wheel, resources including)  (Build Line: 722)
-- <kbd>ABANDON</kbd> A local and public network `File-Sender` software.  (Build Line: 1980)
+#### Our Favorite Technologies
+We specialize in multiple programming languages including:
+- <kbd>Python</kbd>
+- <kbd>C++</kbd>
+- <kbd>GoLang</kbd>
+- <kbd>PHP</kbd>
 
-## Official website
-- 🎉[loadcode.top](https://www.loadcode.top)
-- 💌[cqjszx.cn](https://cqjszx.cn)
+#### Notable Projects
+Here are some of the projects we're most proud of:
+- <kbd>COMPLETED</kbd>: Development of a custom `programming language` (Code Lines: 5210).
+- <kbd>IN DEVELOPMENT</kbd>: An `artificial-intelligence desktop pet` utilizing [Live2D-py](https://github.com/Arkueid/live2d-py) (Code Lines: 2270). This project aims to create an engaging desktop companion using advanced AI techniques.
+- <kbd>IN DEVELOPMENT</kbd>: A natural language and machine language processing calculator (Code Lines: 3680), designed to simplify complex calculations through intuitive interfaces.
+- <kbd>LOST</kbd>: A basic desktop pet application developed independently, which unfortunately has been lost (Code Lines: 722).
+- <kbd>ABANDONED</kbd>: A file transfer software capable of operating over local and public networks (Code Lines: 1980).
+
+#### Official Websites
+For more information, please visit our official websites:
+- 🎉 [LoadCode.Top](https://www.loadcode.top)
+- 💌 [CQJSZX.CN](https://cqjszx.cn)
