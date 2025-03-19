@@ -1,28 +1,25 @@
-### Welcome to Grass Tech
+<h1 align=“center”>嗨👋，我是HeavyNotFat（肥波不肥）</h1>
+<h3 align=“center”>自动智能引领世界！</h3>
 
-Grass Tech is a technology studio dedicated to innovation. We offer high-quality, free technical projects and services aimed at benefiting our users.
+<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=heavynotfat&label=Profile%20views&color=0e75b6&style=flat” alt=“heavynotfat” /> </p>
 
-#### What We Offer
-- **Free Projects**: A range of freely available projects tailored for general users.
-- **Innovative Projects**: Some projects that are both intriguing and challenging, albeit potentially monotonous in certain aspects.
-- **Project Revival**: Continuing the development and support of previously discontinued projects, breathing new life into them.
+- 🔭 我目前正在开发[AI桌面宠物]（https://github.com/HeavyNotFat/Agentic-AI-Desktop-Pet）
 
-#### Our Favorite Technologies
-We specialize in multiple programming languages including:
-- <kbd>Python</kbd>
-- <kbd>C++</kbd>
-- <kbd>GoLang</kbd>
-- <kbd>PHP</kbd>
+- 🌱 我目前正在学习 **Java**
 
-#### Notable Projects
-Here are some of the projects we're most proud of:
-- <kbd>COMPLETED</kbd>: Development of a custom `programming language` (Code Lines: 5210).
-- <kbd>IN DEVELOPMENT</kbd>: An `artificial-intelligence desktop pet` utilizing [Live2D-py](https://github.com/Arkueid/live2d-py) (Code Lines: 2270). This project aims to create an engaging desktop companion using advanced AI techniques.
-- <kbd>IN DEVELOPMENT</kbd>: A natural language and machine language processing calculator (Code Lines: 3680), designed to simplify complex calculations through intuitive interfaces.
-- <kbd>LOST</kbd>: A basic desktop pet application developed independently, which unfortunately has been lost (Code Lines: 722).
-- <kbd>ABANDONED</kbd>: A file transfer software capable of operating over local and public networks (Code Lines: 1980).
+- 👨 💻 我所有的项目都可以在 [https://github.com/HeavyNotFat/Agentic-AI-Desktop-Pet]（https://github.com/HeavyNotFat/Agentic-AI-Desktop-Pet）
 
-#### Official Websites
-For more information, please visit our official websites:
-- 🎉 [LoadCode.Top](https://www.loadcode.top)
-- 💌 [CQJSZX.CN](https://cqjszx.cn)
+上找到- 📝 我经常在 [http://nekocode.top]（http://nekocode.top）
+
+上写文章- 💬 向我询问 **Python 和开发**
+
+📫- 如何联系我 **pysakura0000@qq.com**
+
+- ⚡ 趣闻 **搞笑**
+
+<h3 align=“left”>与我联系：</h3>
+<p align=“left”>
+</p>
+
+<h3 align=“left”>语言和工具：</h3><
+p align=“left”> <a href=“https://developer.android.com” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg” alt=“android” width=“40” height=“40”/> </a> <a href=“https://www.w3schools.com/cpp/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg” alt=“cplusplus” width=“40” height=“40”/> </a> <a href=“https://golang.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg” alt=“go” width=“40” height=“40”/> </a> <a href=“https://www.java.com” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg” alt=“java” width=“40” height=“40”/> </a> <a href=“https://www.mysql.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg” alt=“mysql” width=“40” height=“40”/> </a> <a href=“https://opencv.org/” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg” alt=“opencv” width=“40” height=“40”/> </a> <a href=“https://www.php.net” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg” alt=“php” width=“40” height=“40”/> </a> <a href=“https://www.python.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg” alt=“python” width=“40” height=“40”/> </a> <a href=“https://pytorch.org/” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg” alt=“pytorch” width=“40” height=“40”/> </a> <a href=“https://www.sqlite.org/” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg” alt=“sqlite” width=“40” height=“40”/> </a> </人>
